@@ -1,1 +1,1 @@
-# Project-26
+A simple microwave cheesecake recipie. Takes about 10 minutes at max.
